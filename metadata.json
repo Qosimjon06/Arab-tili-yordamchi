@@ -1,0 +1,6 @@
+{
+  "name": "Arabcha So'z Imtihonchisi",
+  "description": "Faqat foydalanuvchi kiritgan arabcha so'zlar asosida qat'iy va tezkor sinov o'tkazuvchi imtihon yordamchisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
